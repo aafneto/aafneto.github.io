@@ -31,7 +31,7 @@ a:before {
     margin-right: 10px;
 }
 #button:hover{
-    transform: scale(5);
+    transform: scale(1.08);
     background-color: white;
     color: #3A4042;
 }
