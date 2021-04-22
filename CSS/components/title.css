@@ -1,0 +1,14 @@
+h1 {
+    color: #FFFFFF;
+    font-family: 'FFF Tusj Bold', sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    position: absolute;
+    width: 460px;
+    height: 80px;
+    left: 135px;
+    top: 216px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 80px;
+    text-shadow: 4px 4px 0px #000000;
+}
